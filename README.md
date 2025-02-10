@@ -2,6 +2,8 @@
 
 A PowerShell module that simplifies interaction with GitHub releases. This module provides functions to list releases, fetch release assets, and download assets from GitHub repositories.
 
+Code mainly generated with https://github.com/cline/cline.
+
 ## Features
 
 - List releases from any GitHub repository
